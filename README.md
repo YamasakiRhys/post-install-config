@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Log into as an admin user via http://localhost/osTicket/scp then click on Admin Panel in the top right then hover over Agents in the bigger, parent menu option and then click on Roles.
+Log into as an admin user via http://localhost/osTicket/scp then click on Admin Panel in the top right then hover over the Agents tab and then click on Roles.
 </p>
 <br />
 
