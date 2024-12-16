@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Log into as an admin user via http://localhost/osTicket/scp then click on Admin Panel in the top right then hover over the Agents tab and then click on Roles.
+Log into osTicket as an admin user via http://localhost/osTicket/scp then click on Admin Panel in the top right then hover over the Agents tab and then click on Roles.
 </p>
 <br />
 
@@ -34,7 +34,8 @@ Log into as an admin user via http://localhost/osTicket/scp then click on Admin 
 <img src="https://i.imgur.com/d1WaVae.png" height="80%" width="80%" alt="osticket roles"/>
 </p>
 <p>
-Each of the roles allow permissions for the agents that we will create. It ranges from View only, which essentially means the agent can only the view ticket and nothing else, all the way to All access, which is essentially unlimited access and can allow an agent to assign tickets to others, change SLA levels, create, close, delete tickets and the like. If we click on Departments next to the Roles tab, then Add new department we get this:
+Each of the roles that we will create allow for the agents to have different permissions. The permissions range from View only, which means the agent can only the view a ticket and not interact or be able to do anything with the ticket, all the way to All access, which by its name means that an agent assigned this role can allow an agent to do everything in regards to a ticket such as assign tickets to others, change SLA levels, create, close, delete tickets, etc. 
+If we click on Departments next to the Roles tab, then Add new department we get this:
 </p>
 <br />
 
